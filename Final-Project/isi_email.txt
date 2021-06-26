@@ -1,0 +1,4 @@
+Tugas akhir materi Basic Python.
+
+Email ini dikirimkan melalui program Python. Daftar alamat penerima email disimpan dalam file txt.
+File image (jpg) bisa disertakan sebagai lampiran.
